@@ -3,6 +3,7 @@
 # 3.Dictonary
 # 4.sets
 # 5.strings
+# 6. Collections
 # 7. Intertools
 # 8. lambda Functions
 # 9. Exceptions and Errors
