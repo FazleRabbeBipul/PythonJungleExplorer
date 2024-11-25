@@ -80,6 +80,7 @@ print(mylist2)
 mylist2 = ['apple', 'blueberry', 1, 1.56, 'c', 'mango1', 'mango2']
 
 mylist2.pop() # remove last element
+mylist2.pop(2) # index based remove
 mylist2.remove("apple") # "apple" removed
 mylist2.clear() #clear all, removed all elements
 
