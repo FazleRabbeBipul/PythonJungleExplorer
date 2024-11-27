@@ -146,7 +146,8 @@ listCopy = list(listOrg) #2, list argument
 listCopy = listOrg[:] #slicing (beg to all)
 
     # more faster
-listfaster = [i+i for i in listOrg] #for i in listor , returns (i)= items, and append to copy lsit
+listfaster = [i+i for i in listOrg] 
+#for i in listor , returns (i)= items, and append to copy lsit
 print(listOrg) # [1, 2, 3, 4]
 print(listfaster) #[2, 4, 6, 8]
 

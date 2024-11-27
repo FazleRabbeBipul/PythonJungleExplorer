@@ -2,7 +2,11 @@
 
 
 ## 3.1 Declaration
-mydict = { "name": "bipul", "age":25, "city":"dhaka" }
+mydict = { 
+    "name": "bipul", 
+    "age":25, 
+    "city":"dhaka" 
+    }
 print(mydict) 
 
 mydict2 = dict(name = "bipul", age = 25, city = "dhaka")

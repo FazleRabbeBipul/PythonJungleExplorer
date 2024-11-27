@@ -1,0 +1,4 @@
+__pycache__
+logging.conf
+app.log
+file.log
